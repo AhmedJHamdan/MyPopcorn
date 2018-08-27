@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "155663101959",
+    "firebase_url": "https://mypopcorn-c45d7.firebaseio.com",
+    "project_id": "mypopcorn-c45d7",
+    "storage_bucket": "mypopcorn-c45d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155663101959:android:ffe1a10daf4c2492",
+        "android_client_info": {
+          "package_name": "com.udacity.ahmed.mypopcorn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155663101959-e2e2gfu3nc3vbdua3kqcspkn1kppkjro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADiUNy_W79xWRQyqLWpIFOYhP33IomUYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyPopcorn</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="movie_poster">This is the Movie Poster</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_tv_season_info">TvSeasonInfo</string>
+    <string name="title_activity_episode">EpisodeActivity</string>
+    <string name="title_activity_favourite">FavouriteActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3365988392893862/4312914567</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+    <string name="title_activity_view_all">ViewAllActivity</string>
+    <string name="title_activity_tv_cast_detail">TvCastDetail</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite_tv_shows">Favorite Tv Shows</string>
+    <string name="no_favorites_added_yet">No Favorites added yet.</string>
+    <string name="next_episode">Next Episode:</string>
+    <string name="view_all">View All</string>
+    <string name="shows_time">MyPopcorn</string>
+    <string name="reminds_you_of_your_daily_favorite_shows">Reminds you of your daily favorite shows</string>
+    <string name="rating">Rating:</string>
+    <string name="release_data">Released Date:</string>
+    <string name="image_path">http://image.tmdb.org/t/p/w780</string>
+    <string name="tv_season_heading">Tv Seasons</string>
+    <string name="tv_casts_heading">Tv Casts</string>
+    <string name="more_tv_show_heading">More Tv shows like this one</string>
+    <string name="you_must_watch_heading">You must watch these</string>
+    <string name="season">Season:</string>
+    <string name="popular_tv_heading">Popular Tv Shows</string>
+    <string name="top_rated_heading">Top Rated Tv Shows</string>
+    <string name="air_today_heading">Tv Shows Airing Today</string>
+    <string name="cast_heading">Casts</string>
+    <string name="born_on">Born on:</string>
+    <string name="episode_air_heading">Episode Air Date:</string>
+
+
+    <string name="firstAir">First Aired on :</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">Tv Shows</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+
+</resources>
