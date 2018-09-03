@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity
         getSupportActionBar().setHomeButtonEnabled(true);
         drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
 
-        MobileAds.initialize(getApplicationContext(), "pub-9118327582693953");
+        MobileAds.initialize(getApplicationContext(), "pub-3365988392893862");
 
         FirebaseAnalytics mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
